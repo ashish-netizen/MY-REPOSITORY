@@ -1,0 +1,16 @@
+https://mdbootstrap.com/img/Photos/Slides/img%20(115).jpg
+https://mdbootstrap.com/img/Photos/Slides/img%20(108).jpg
+
+<div class="card-header " style="background-color:#f5f5f5; border-style: none; ">
+                NEWS
+              </div>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28493.212938444743!2d79.00002811044645!3d26.787372933791673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3975dfd884cf6219%3A0x6aa136334cfc04c5!2sEtawah%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1571204695507!5m2!1sen!2sin
+              " width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+              <div>
+            <pre>  2,311 Sq. Km.</pre>
+            <img src="/home/dk1242/Desktop/Etawahv1/location-pointer.svg">
+        
+        <br>
+        <h5>Area</h5>        
+            </div>
